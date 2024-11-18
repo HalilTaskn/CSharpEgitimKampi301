@@ -10,6 +10,7 @@
         <EntityTypeShape EntityType="EgitimKampiEfTravelDbModel.Location" Width="1.5" PointX="3.5" PointY="3.25" IsExpanded="true" />
         <EntityTypeShape EntityType="EgitimKampiEfTravelDbModel.sysdiagram" Width="1.875" PointX="8.625" PointY="3.75" IsExpanded="true" />
         <AssociationConnector Association="EgitimKampiEfTravelDbModel.FK_Location_Guide" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="EgitimKampiEfTravelDbModel.Admin" Width="2" PointX="6.125" PointY="0.875" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
